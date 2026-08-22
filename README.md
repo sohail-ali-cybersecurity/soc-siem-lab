@@ -102,7 +102,7 @@ Analyzed a simulated credential-phishing email impersonating internal IT Support
 
 All detections generated in this lab were reviewed against the MITRE ATT&CK dashboard, filtered to isolate alerts specifically attributable to the custom rule (Tactic: Credential Access, Technique: Brute Force):
 
-![MITRE ATT&CK mapping](mitre-attck-mapping.png)
+![MITRE ATT&CK mapping](mitre-attack-mapping.png)
 
 ---
 
